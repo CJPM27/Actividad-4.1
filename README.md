@@ -13,13 +13,13 @@ Actividad 4.1
 
 # Comandos utilizados
 
-    git clone 
+    git clone https://github.com/CJPM27/Actividad-4.1.git
 
 # Instrucciones
 
 - Paso 1: Git
 
-      git clone 
+      git clone https://github.com/CJPM27/Actividad-4.1.git
 
 - Paso 2: Archivo .html
 
